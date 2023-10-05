@@ -11,5 +11,5 @@ Always use a virtual environment to manage dependencies.
 
 Move the both input csv files to a specific directory: booking/files/
 
-Run the project use coomand: python manage.py runserver
+Run the project use command: python manage.py runserver
 
