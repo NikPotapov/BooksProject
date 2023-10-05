@@ -1,7 +1,0 @@
-<!-- input_template.html -->
-<form method="post" action="{% url 'generate_view' %}" autocomplete="off">
-    {% csrf_token %}
-    {{ form.as_p }}
-    <button type="submit">Search</button>
-</form>
-
