@@ -9,5 +9,7 @@ pandas = 2.1.1
 
 Always use a virtual environment to manage dependencies.
 
+Move the both input csv files to a specific directory: booking/files/
+
 
 
